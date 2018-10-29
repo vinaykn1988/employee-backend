@@ -1,0 +1,55 @@
+{
+    "employees": [
+        {
+            "emp_id": 1,
+            "first_name": "Arun",
+            "last_name": "Kumar",
+            "age": 27,
+            "sex": "M",
+            "marital_status": "Married",
+            "address": "Bangalore",
+            "designation": "Senior Developer"
+          },
+          {
+            "emp_id": 2,
+            "first_name": "Sathish",
+            "last_name": "Nayak",
+            "age": 32,
+            "sex": "M",
+            "marital_status": "Married",
+            "address": "Bangalore",
+            "designation": "Team lead"
+          },
+          {
+            "emp_id": 3,
+            "first_name": "Gopal",
+            "last_name": "Raju",
+            "age": 36,
+            "sex": "M",
+            "marital_status": "Married",
+            "address": "Delhi",
+            "designation": "Senior Manager"
+          },
+          {
+            "emp_id": 4,
+            "first_name": "Swetha",
+            "last_name": "Hegde",
+            "age": 25,
+            "sex": "F",
+            "marital_status": "single",
+            "address": "Bangalore",
+            "designation": "Associate Engineer"
+          },
+          {
+            "emp_id": 5,
+            "first_name": "Shivani",
+            "last_name": "Dimri",
+            "age": 28,
+            "sex": "F",
+            "marital_status": "Married",
+            "address": "Delhi",
+            "designation": "HR"
+          }
+    ]
+
+}
