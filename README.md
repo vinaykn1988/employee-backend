@@ -9,7 +9,8 @@ NPM Modules used::
 
 Steps to run::
 
-1. First start mongo server locally.
-2. Initially database will empty. Add some data by running command 'node .\loadInitialData.js'.
-3. Run command 'npm test' which ignites the gulp tool
-4. Finally start the server by running 'nodemon .\build\index.js', since the build file will be inside the build folder
+1. run command 'npm install' to install all npm dependency packages.
+2. First start mongo server locally.
+3. Initially database will empty. Add some data by running command 'node .\loadInitialData.js'.
+4. Run command 'npm test' which ignites the gulp tool
+5. Finally start the server by running 'nodemon .\build\index.js', since the build file will be inside the build folder
