@@ -13,4 +13,4 @@ Steps to run::
 2. First start mongo server locally.
 3. Initially database will empty. Add some data by running command 'node .\loadInitialData.js'.
 4. Run command 'npm test' which ignites the gulp tool
-5. Finally start the server by running 'nodemon .\build\index.js', since the build file will be inside the build folder
+5. Finally start the server by running 'npm run serve' which runs serve command as mentioned in package.json file.
